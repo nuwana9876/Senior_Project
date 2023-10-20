@@ -1,7 +1,7 @@
 # Senior_Project
 
 ## Project demo video
-[![Video Label](https://img.youtube.com/vi/'EePWHQ5YWqE'/0.jpg)](https://www.youtube.com/embed/EePWHQ5YWqE)
+[![딥러닝을 이용한 시각장애인을 위한 편의점 상품 인식기](https://img.youtube.com/vi/'EePWHQ5YWqE'/0.jpg)](https://www.youtube.com/embed/EePWHQ5YWqE)
 
 ## Overview
 <img width="800" alt="overview" src="https://github.com/nuwana9876/Senior_Project/assets/78463348/207e8ad1-d2aa-44a6-ad53-5774baef6536">
